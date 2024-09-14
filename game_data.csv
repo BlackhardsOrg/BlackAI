@@ -1,4 +1,87 @@
 title,genre,platform,previous_price,competitor_price,sales,seasonal_demand
-Game1,Action,PC,59.99,49.99,5000,High
-Game2,RPG,PS5,69.99,65.99,3000,Medium
-...
+The Witcher 3,RPG,PC,59.99,49.99,500000,High
+Cyberpunk 2077,Action,PC,69.99,65.99,400000,High
+Red Dead Redemption 2,Action,PS5,59.99,55.99,600000,High
+Elden Ring,RPG,PS5,69.99,67.99,350000,Medium
+Halo Infinite,Shooter,Xbox,59.99,52.99,250000,Medium
+Fortnite,Battle Royale,PC,0.00,0.00,1000000,High
+Minecraft,Sandbox,PC,29.99,25.99,900000,High
+Call of Duty: Modern Warfare,Shooter,PS5,69.99,64.99,700000,Medium
+Apex Legends,Battle Royale,PC,0.00,0.00,850000,High
+Grand Theft Auto V,Action,PS5,39.99,34.99,1000000,High
+Among Us,Strategy,PC,4.99,3.99,200000,Low
+Valorant,Shooter,PC,0.00,0.00,750000,High
+League of Legends,MOBA,PC,0.00,0.00,1200000,High
+FIFA 23,Sports,PS5,59.99,54.99,900000,High
+NBA 2K23,Sports,PS5,69.99,64.99,400000,Medium
+Overwatch 2,Shooter,PC,0.00,0.00,600000,High
+Fall Guys,Battle Royale,PC,19.99,14.99,300000,Medium
+PUBG,Battle Royale,PC,29.99,24.99,450000,High
+Rocket League,Sports,PC,0.00,0.00,800000,Medium
+Monster Hunter: World,RPG,PC,39.99,34.99,500000,High
+Far Cry 6,Action,PS5,59.99,55.99,300000,Medium
+Assassin's Creed Valhalla,Action,PS5,69.99,64.99,450000,High
+Doom Eternal,Shooter,PC,49.99,44.99,200000,Low
+Borderlands 3,Shooter,PC,59.99,54.99,300000,Medium
+Mortal Kombat 11,Fighting,PC,39.99,34.99,150000,Low
+Hitman 3,Action,PS5,59.99,57.99,250000,Medium
+Resident Evil Village,Horror,PS5,69.99,65.99,350000,High
+Hades,RPG,PC,24.99,19.99,200000,Low
+Ghost of Tsushima,Action,PS5,59.99,54.99,400000,High
+Marvel's Spider-Man: Miles Morales,Action,PS5,49.99,45.99,500000,High
+Sea of Thieves,Adventure,PC,39.99,34.99,600000,Medium
+No Man's Sky,Adventure,PC,29.99,24.99,350000,Medium
+Control,Action,PC,39.99,34.99,200000,Low
+Destiny 2,Shooter,PC,0.00,0.00,700000,High
+Dark Souls III,RPG,PC,59.99,49.99,300000,Medium
+The Legend of Zelda: Breath of the Wild,Adventure,Switch,59.99,54.99,1000000,High
+Super Mario Odyssey,Platformer,Switch,49.99,44.99,850000,High
+Animal Crossing: New Horizons,Simulation,Switch,59.99,54.99,950000,High
+Splatoon 2,Shooter,Switch,59.99,54.99,400000,Medium
+Super Smash Bros. Ultimate,Fighting,Switch,59.99,54.99,700000,High
+Mario Kart 8 Deluxe,Racing,Switch,59.99,54.99,1200000,High
+Fire Emblem: Three Houses,Strategy,Switch,59.99,54.99,300000,Medium
+The Elder Scrolls V: Skyrim,RPG,PC,39.99,34.99,600000,High
+Forza Horizon 5,Racing,Xbox,59.99,54.99,500000,High
+Cuphead,Platformer,PC,19.99,14.99,300000,Medium
+Hollow Knight,Platformer,PC,14.99,9.99,250000,Low
+Outer Worlds,RPG,PC,39.99,34.99,200000,Low
+Cyber Shadow,Platformer,PC,14.99,9.99,50000,Low
+Returnal,Action,PS5,69.99,65.99,300000,Medium
+Deathloop,Action,PS5,59.99,54.99,250000,Medium
+Ratchet & Clank: Rift Apart,Action,PS5,69.99,64.99,400000,High
+Nier: Automata,RPG,PC,39.99,34.99,300000,Medium
+Yakuza: Like a Dragon,RPG,PC,59.99,54.99,200000,Low
+It Takes Two,Adventure,PC,39.99,34.99,500000,Medium
+Dead Cells,Action,PC,24.99,19.99,300000,Low
+The Outer Wilds,Adventure,PC,19.99,14.99,200000,Low
+Divinity: Original Sin 2,RPG,PC,44.99,39.99,400000,Medium
+Planet Zoo,Simulation,PC,39.99,34.99,200000,Low
+Microsoft Flight Simulator,Simulation,PC,59.99,54.99,300000,Medium
+RimWorld,Simulation,PC,34.99,29.99,200000,Low
+Factorio,Strategy,PC,29.99,24.99,250000,Medium
+Civilization VI,Strategy,PC,49.99,44.99,600000,High
+XCOM 2,Strategy,PC,39.99,34.99,300000,Medium
+Pathfinder: Wrath of the Righteous,RPG,PC,49.99,44.99,150000,Low
+Total War: Three Kingdoms,Strategy,PC,59.99,54.99,200000,Low
+Europa Universalis IV,Strategy,PC,39.99,34.99,300000,Low
+Stellaris,Strategy,PC,49.99,44.99,400000,Medium
+Hearts of Iron IV,Strategy,PC,39.99,34.99,200000,Low
+Tropico 6,Simulation,PC,44.99,39.99,150000,Low
+Crusader Kings III,Strategy,PC,49.99,44.99,250000,Medium
+Football Manager 2022,Sports,PC,49.99,44.99,500000,High
+Sid Meier's Pirates!,Adventure,PC,19.99,14.99,100000,Low
+Disco Elysium,RPG,PC,39.99,34.99,150000,Low
+Subnautica,Adventure,PC,29.99,24.99,300000,Medium
+Slay the Spire,Strategy,PC,19.99,14.99,200000,Low
+Terraria,Sandbox,PC,9.99,7.99,700000,High
+Undertale,RPG,PC,14.99,9.99,300000,Low
+Ori and the Will of the Wisps,Platformer,PC,29.99,24.99,350000,Medium
+Spiritfarer,Adventure,PC,29.99,24.99,200000,Low
+Death Stranding,Action,PC,59.99,54.99,300000,Medium
+Darksiders III,Action,PC,49.99,44.99,150000,Low
+Frostpunk,Simulation,PC,29.99,24.99,200000,Low
+Satisfactory,Simulation,PC,29.99,24.99,250000,Medium
+Factorio,Strategy,PC,29.99,24.99,300000,Medium
+Hunt: Showdown,Shooter,PC,39.99,34.99,250000,Medium
+Star Wars: Squadrons,Action,PC,39.99,34.99,200000,Low
