@@ -1,0 +1,4 @@
+title,genre,platform,previous_price,competitor_price,sales,seasonal_demand
+Game1,Action,PC,59.99,49.99,5000,High
+Game2,RPG,PS5,69.99,65.99,3000,Medium
+...
